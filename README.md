@@ -38,12 +38,13 @@ Objective to create a chatbot capable of interacting with users and retrieving r
 Model Architecture Selected and implemented a model architecture that suits language processing and information retrieval tasks.
 
 
-##### Model Architecture:
+#### Model Architecture:
 
 ![image](https://github.com/user-attachments/assets/2207ee7a-4012-4d2c-ae8e-8f6b8b95970a)
 
 
-##### Model Performance:
+
+#### Model Performance:
 
 ![image](https://github.com/user-attachments/assets/e545e844-b3b8-43e3-ac7d-470f175d261d)
 
