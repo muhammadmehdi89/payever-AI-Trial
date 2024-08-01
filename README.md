@@ -46,7 +46,8 @@ Model Architecture Selected and implemented a model architecture that suits lang
 
 #### Model Performance:
 
-![image](https://github.com/user-attachments/assets/e545e844-b3b8-43e3-ac7d-470f175d261d)
+![image](https://github.com/user-attachments/assets/fced2210-0a69-49d1-9e87-f9ca43afedd0)
+
 
  
 
